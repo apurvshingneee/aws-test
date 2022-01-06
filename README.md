@@ -2,7 +2,7 @@
 
 <h2>Update the Database Values</h2>
 
-- Create following table in db.
+- Createe following table in db.
 
 <pre> CREATE TABLE users (
   id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
